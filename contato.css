@@ -1,0 +1,26 @@
+
+img{
+    width: 10%;
+    height: 80px;
+    background-color: white;
+}
+.cont{
+    background-color:#6f42c1;;
+}
+.foto{
+    width: 100%;
+    height: 450px;
+    padding: 40px;
+}
+.compl{
+    padding: 50px;
+    display: block;
+}
+.voltar{
+    color: white;
+    text-decoration: none;
+}
+.botoes{
+    padding: 5px;
+    
+}
